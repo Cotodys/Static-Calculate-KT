@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86dfe64d44d2732439586977fa546910, type: 3}
+  m_Name: FormulasText
+  m_EditorClassIdentifier: Assembly-CSharp::FormulasTextSO
+  formula1: F = m * g
+  formula2: F = G * (m<sub>1</sub> * m<sub>2</sub>) / r<sup>2</sup>
+  formula3: F = m * a
+  formula4: E<sub>k</sub> = (m * v<sup>2</sup>) / 2
+  formula5: p = m * v
